@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "toppng.com-fire-emoji-emojis-iphone-tumblr-sticker-by-adesv-fire-emoji-ios-11-559x713.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
